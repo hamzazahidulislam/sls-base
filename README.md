@@ -16,3 +16,4 @@ npm install
 
 You are ready to go!
 https://github.com/hamzazahidulislam/sls-base  https://github.com/hamzazahidulislam/sls-course-frontend  https://github.com/hamzazahidulislam/serverless-auth0-authorizer  https://github.com/hamzazahidulislam/course-auction-service
+https://github.com/hamzazahidulislam/course-notification-service
